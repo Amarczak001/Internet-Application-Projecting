@@ -18,8 +18,3 @@
 ### Uruchomienie aplikacji poprzez docker compose: 
 Po uruchomieniu terminalu projektu trzeba użyć komendy: `docker-compose up --build`
 
-
-### Wykonali:
-- Adam Marczak (26251)
-- Dominik Jezierski (25642)
-- Gustaw Łączkowski (25603)
